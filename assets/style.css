@@ -96,6 +96,18 @@ footer {
   text-align: center;
 }
 
+.foot2 {
+  width: 70%;
+}
+
+.foot2 h6 {
+  font-size: 14px;
+}
+
+.foot2 p {
+  font-size: 14px;
+}
+
 @media screen and (max-width: 480px) {
   .bg-img {
     width: 140px;
