@@ -1,3 +1,9 @@
+/* html {
+  max-width: 1400px;
+  margin: 0 auto;
+  background-color: #eee;
+} */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -33,7 +39,11 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 70vh;
+  min-height: 75vh;
+}
+
+.main-content {
+  padding: 10% 0;
 }
 
 form {
