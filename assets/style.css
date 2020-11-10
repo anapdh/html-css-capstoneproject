@@ -69,6 +69,33 @@ input {
   background-color: white;
 }
 
+footer {
+  background-color: #000;
+}
+
+.foot-links {
+  width: 70%;
+}
+
+.foot-links ul {
+  font-size: 12px;
+  padding: 10px 0;
+}
+
+.foot-links a {
+  color: white;
+}
+
+.mid-link {
+  border-radius: 60%;
+}
+
+.mid-link i {
+  font-size: 25px;
+  width: 25px;
+  text-align: center;
+}
+
 @media screen and (max-width: 480px) {
   .bg-img {
     width: 140px;
