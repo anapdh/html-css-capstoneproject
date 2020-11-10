@@ -46,25 +46,40 @@ input {
 }
 
 .content-section {
-  height: 45vh;
+ height: 240px;
 }
 
 .bg-1 {
-  background-color: #d55345;
+  background-color: #ff2511;
 }
 
 .bg-2 {
-  background-color: #cdcfd6;
+  background-color: #c0c2c9;
 }
 
 .bg-3 {
-  background-color: #509cd8;
+  background-color: #5eb0ee;
 }
 
 .bg-img {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   border: 1px solid #000;
   border-radius: 150px;
   background-color: white;
+}
+
+@media screen and (max-width: 480px) {
+  .bg-img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .txt-content h5 {
+    font-size: 18px;
+  }
+
+  .txt-content p {
+    font-size: 14px;
+  }
 }
