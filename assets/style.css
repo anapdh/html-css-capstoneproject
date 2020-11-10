@@ -23,6 +23,11 @@ body {
   width: 100%;
 }
 
+.main-nav i {
+  color: white;
+  font-size: 14px;
+}
+
 main {
   background-image: url("../assets/images/background-beachhouse.jpg");
   background-repeat: no-repeat;
@@ -37,7 +42,7 @@ form {
   width: 100%;
 }
 
-input {
+.main-input {
   width: 300px;
 }
 
@@ -80,14 +85,18 @@ footer {
 .foot-links ul {
   font-size: 12px;
   padding: 10px 0;
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;
 }
 
 .foot-links a {
   color: white;
+  font-size: 12px;
 }
 
 .mid-link {
-  border-radius: 60%;
+  border: 1px solid #555;
+  border-radius: 50%;
 }
 
 .mid-link i {
