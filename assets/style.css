@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.primary-color {
+  background-color: #f81d07;
+}
+
+.d-none {
+  display: none;
+}
+
+.navbar {
+  
+}
+
+.navbar-logo {
+  width: 100%;
+  height: auto;
+  /* padding-top: 60%; */
+}
