@@ -44,3 +44,27 @@ input {
 .description-section i {
   font-size: 48px;
 }
+
+.content-section {
+  height: 45vh;
+}
+
+.bg-1 {
+  background-color: #d55345;
+}
+
+.bg-2 {
+  background-color: #cdcfd6;
+}
+
+.bg-3 {
+  background-color: #509cd8;
+}
+
+.bg-img {
+  width: 180px;
+  height: 180px;
+  border: 1px solid #000;
+  border-radius: 150px;
+  background-color: white;
+}
