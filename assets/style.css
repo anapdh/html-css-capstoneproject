@@ -6,16 +6,41 @@ body {
   background-color: #f81d07;
 }
 
+.primary-color-t {
+  color: #f81d07;
+}
+
 .d-none {
   display: none;
 }
 
-.navbar {
-  
+.navbar-logo {
+  width: 50%;
+  height: auto;
 }
 
-.navbar-logo {
+.navbar-logo2 {
   width: 100%;
-  height: auto;
-  /* padding-top: 60%; */
+}
+
+main {
+  background-image: url("../assets/images/background-beachhouse.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 70vh;
+}
+
+form {
+  background-color: rgb(255, 255, 255, 0.8);
+  border-radius: 5px;
+  width: 100%;
+}
+
+input {
+  width: 300px;
+}
+
+.description-section i {
+  font-size: 48px;
 }
