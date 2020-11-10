@@ -104,8 +104,23 @@ footer {
   font-size: 14px;
 }
 
-.foot2 p {
+.foot2 p,
+a {
   font-size: 14px;
+}
+
+.foot3 {
+  background-color: #333333;
+}
+
+.foot3 li {
+  margin: 0 10px;
+}
+
+.foot3 a,
+i {
+  color: #888;
+  font-size: 10px;
 }
 
 @media screen and (max-width: 480px) {
