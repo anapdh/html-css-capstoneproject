@@ -5,9 +5,23 @@
 # HTML-CSS-CapstoneProject
 A solo project to finish Microverse' HTML/CSS section.
 
-<!-- ![screenshot](./assets/SCREENSHOT1.png)
-![screenshot](./assets/SCREENSHOT2.png)
-![screenshot](./assets/SCREENSHOT3.png) -->
+PAGE 1:
+![screenshot](./assets/images/SCREENSHOT1.png)
+--
+PAGE 2:
+![screenshot](./assets/images/SCREENSHOT2.png)
+--
+PAGE 3:
+![screenshot](./assets/images/SCREENSHOT3.png)
+
+
+## About the Project
+
+This project features:
+- A responsive design for Mobile, Tablet and Desktop;
+- Input forms, buttons images and background image;
+- Tree different content pages, linked by anchor tags;
+- iFrames(Maps) with the location view.
 
 
 ## Built With
