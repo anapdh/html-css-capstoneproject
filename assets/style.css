@@ -140,6 +140,14 @@ i {
   font-size: 10px;
 }
 
+/* DETAILS PAGE */
+
+.specification-list li::before {
+  content: "•";
+  color: red;
+  margin-right: 10px;
+}
+
 /*MEDIA QUERIES*/
 
 @media screen and (max-width: 480px) {
