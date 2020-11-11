@@ -8,11 +8,14 @@ A solo project to finish Microverse' HTML/CSS section.
 PAGE 1:
 ![screenshot](./assets/images/SCREENSHOT1.png)
 --
+
 PAGE 2:
 ![screenshot](./assets/images/SCREENSHOT2.png)
 --
+
 PAGE 3:
 ![screenshot](./assets/images/SCREENSHOT3.png)
+--
 
 
 ## About the Project
