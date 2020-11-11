@@ -48,6 +48,7 @@ This project diplays Maps.
 
 This is a [PataschuleKE](https://www.behance.net/gallery/25563385/PatashuleKE) Original Design. Idea by [Mathew Njuguna and others on Behance](https://www.behance.net/mathewnjuguna).
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -58,11 +59,6 @@ Feel free to check the [issues page](https://github.com/anapdh/HTML-CSS-Capstone
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
-## Acknowledgments
-
-- To carry out this project we used Microverse Study material, W3 Schools and Google.
 
 
 ## 📝 License
