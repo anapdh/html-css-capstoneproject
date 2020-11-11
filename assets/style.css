@@ -28,7 +28,7 @@ body {
   font-size: 14px;
 }
 
-.main {
+.main-div {
   background-image: url("../assets/images/background-beachhouse.jpg");
   background-repeat: no-repeat;
   background-size: cover;
