@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "hint": "6.0.x",
+    "stylelint": "13.3.x",
+    "stylelint-config-standard": "20.0.x",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "3.17.x"
+  }
+}

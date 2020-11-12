@@ -1,0 +1,211 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.primary-color {
+  background-color: rgb(212, 87, 74);
+}
+
+.primary-color-t {
+  color: rgb(212, 87, 74);
+}
+
+.d-none {
+  display: none;
+}
+
+.navbar-logo {
+  width: 50%;
+  height: auto;
+}
+
+.navbar-logo2 {
+  width: 100%;
+}
+
+.main-nav i {
+  color: white;
+  font-size: 14px;
+}
+
+.main-div {
+  background-image: url("../assets/images/background-beachhouse.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 65vh;
+  box-shadow: 0 1px 10px #555;
+}
+
+.main-content {
+  padding: 10% 0;
+}
+
+.main-header {
+  text-shadow: 0 1px 10px #555;
+}
+
+.form1 {
+  background-color: rgb(255, 255, 255, 0.7);
+  box-shadow: 0 1px 20px #888;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.main-input {
+  width: 300px;
+}
+
+.description-section i {
+  font-size: 48px;
+}
+
+.content-section {
+  height: 240px;
+}
+
+.bg-1 {
+  background-color: rgb(212, 87, 74);
+}
+
+.bg-2 {
+  background-color: rgb(152, 164, 165);
+}
+
+.bg-3 {
+  background-color: rgb(81, 155, 215);
+}
+
+.bg-img {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  border-radius: 150px;
+  background-color: white;
+}
+
+footer {
+  background-color: #000;
+}
+
+.foot-links {
+  width: 85%;
+}
+
+.foot-links ul {
+  font-size: 12px;
+  padding: 10px 0;
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;
+}
+
+.foot-links a {
+  color: white;
+  font-size: 12px;
+}
+
+.mid-link {
+  border: 1px solid #555;
+  border-radius: 50%;
+}
+
+.mid-link i {
+  font-size: 25px;
+  width: 25px;
+  text-align: center;
+}
+
+.foot2 {
+  width: 70%;
+}
+
+.foot2 h6 {
+  font-size: 14px;
+}
+
+.form-control-i {
+  width: 140px;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+}
+
+.t-14 {
+  font-size: 14px;
+}
+
+.foot3 {
+  background-color: #333;
+}
+
+.foot3 li {
+  margin: 0 10px;
+}
+
+.t-11-muted {
+  color: #888;
+  font-size: 11px;
+}
+
+.t-11-muted:hover {
+  color: pink;
+}
+
+/* RESULTS PAGE */
+
+.form2 {
+  background-color: rgb(212, 87, 74, 0.2);
+}
+
+.txt-label {
+  color: rgb(212, 87, 74);
+  font-weight: bold;
+}
+
+.custom-input {
+  color: #888;
+  border-color: #888;
+  border-radius: 2px;
+}
+
+.date-btn {
+  height: 25px;
+  font-size: 12px;
+  line-height: 12px;
+  padding: 6px;
+}
+
+/* DETAILS PAGE */
+
+.specification-list li::before {
+  content: "•";
+  color: rgb(212, 87, 74);
+  margin-right: 10px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 480px) {
+  .bg-img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .txt-content h5 {
+    font-size: 18px;
+  }
+
+  .txt-content p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main-header {
+    font-size: 16px;
+  }
+
+  .main-input-text {
+    font-size: 12px;
+  }
+}
