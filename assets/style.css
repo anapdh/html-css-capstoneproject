@@ -3,11 +3,11 @@ body {
 }
 
 .primary-color {
-  background-color: #f81d07;
+  background-color: rgb(212,87,74);
 }
 
 .primary-color-t {
-  color: #f81d07;
+  color: rgb(212,87,74);
 }
 
 .d-none {
@@ -33,7 +33,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 80vh;
+  min-height: 65vh;
   box-shadow: 0 1px 10px #555;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 form {
-  background-color: rgb(255, 255, 255, 0.8);
+  background-color: rgb(255, 255, 255, 0.7);
   box-shadow: 0 1px 20px #888;
   border-radius: 5px;
   width: 100%;
@@ -65,15 +65,15 @@ form {
 }
 
 .bg-1 {
-  background-color: #ff2511;
+  background-color: rgb(212,87,74);
 }
 
 .bg-2 {
-  background-color: #c0c2c9;
+  background-color: rgb(152,164,165);
 }
 
 .bg-3 {
-  background-color: #5eb0ee;
+  background-color: rgb(81,155,215);
 }
 
 .bg-img {
@@ -89,7 +89,7 @@ footer {
 }
 
 .foot-links {
-  width: 70%;
+  width: 85%;
 }
 
 .foot-links ul {
@@ -123,6 +123,13 @@ footer {
   font-size: 14px;
 }
 
+.form-control-i {
+  width: 140px;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+}
+
 .t-14 {
   font-size: 14px;
 }
@@ -148,7 +155,7 @@ footer {
 
 .specification-list li::before {
   content: "•";
-  color: red;
+  color: rgb(212,87,74);
   margin-right: 10px;
 }
 
@@ -166,5 +173,15 @@ footer {
 
   .txt-content p {
     font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .main-header {
+    font-size: 16px;
+  }
+
+  .main-input-text {
+    font-size: 12px;
   }
 }
