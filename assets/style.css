@@ -3,11 +3,11 @@ body {
 }
 
 .primary-color {
-  background-color: rgb(212,87,74);
+  background-color: rgb(212, 87, 74);
 }
 
 .primary-color-t {
-  color: rgb(212,87,74);
+  color: rgb(212, 87, 74);
 }
 
 .d-none {
@@ -65,15 +65,15 @@ body {
 }
 
 .bg-1 {
-  background-color: rgb(212,87,74);
+  background-color: rgb(212, 87, 74);
 }
 
 .bg-2 {
-  background-color: rgb(152,164,165);
+  background-color: rgb(152, 164, 165);
 }
 
 .bg-3 {
-  background-color: rgb(81,155,215);
+  background-color: rgb(81, 155, 215);
 }
 
 .bg-img {
@@ -154,11 +154,11 @@ footer {
 /* RESULTS PAGE */
 
 .form2 {
-  background-color:  rgb(212,87,74, 0.2);
+  background-color: rgb(212, 87, 74, 0.2);
 }
 
 .txt-label {
-  color: rgb(212,87,74);
+  color: rgb(212, 87, 74);
   font-weight: bold;
 }
 
@@ -179,7 +179,7 @@ footer {
 
 .specification-list li::before {
   content: "•";
-  color: rgb(212,87,74);
+  color: rgb(212, 87, 74);
   margin-right: 10px;
 }
 
