@@ -2,20 +2,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# HTML-CSS-CapstoneProject
-A solo project to finish Microverse' HTML/CSS section.
+## HTML & CSS - Capstone Project
 
-PAGE 1:
-![screenshot](./assets/images/SCREENSHOT1.png)
---
+A solo project to finish Microverse's HTML/CSS section.
 
-PAGE 2:
-![screenshot](./assets/images/SCREENSHOT2.png)
---
 
-PAGE 3:
-![screenshot](./assets/images/SCREENSHOT3.png)
---
+![screenshot](./assets/images/smartmockups.png)
 
 
 ## About the Project
