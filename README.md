@@ -28,7 +28,7 @@ This project features:
 
 ## Live Demo
 
-[Live Demo Link](https://anapdh.github.io/HTML-CSS-CapstoneProject/)
+[Live Demo Link](https://anapdh.github.io/html-css-capstoneproject/)
 
 
 ## Getting Started
