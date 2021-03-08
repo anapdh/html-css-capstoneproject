@@ -51,7 +51,7 @@ This project diplays Maps.
 
 - GitHub: [@anapdh](https://github.com/anapdh)
 - Twitter: [@anapdh](https://twitter.com/anapdh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ana-paula-hübner-7a9484181)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anapdh)
 
 
 ## Original Project
