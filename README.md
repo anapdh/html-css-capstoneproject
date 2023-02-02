@@ -16,7 +16,7 @@ This project features:
 - A webpage for renting houses at the beach;
 - A responsive design for Mobile, Tablet and Desktop;
 - Input forms, buttons images and background image;
-- Tree different content pages, linked by anchor tags;
+- Three different content pages, linked by anchor tags;
 - iFrames(Maps) with the location view.
 
 
